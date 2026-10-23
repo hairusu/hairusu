@@ -1,4 +1,4 @@
-# Hi there, I'm Julian 👋
+# Hi there stranger, I am Julian 👋
 
 I am a Developer focused on **automation, data extraction, and system utility tools**. I build efficient solutions using **Python** and **C++**.
 
